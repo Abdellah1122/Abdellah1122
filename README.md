@@ -3,8 +3,9 @@
 Hi! I'm Abdellah Jorf a passionate .NET Blazor developer with over 4 years of experience working on various projects, ranging from Blazor WebAssembly to Blazor Server applications,not only that but everything related to backend web devloppement using .NET ASP Web API, Entity Framework ... , I specialize in building scalable, responsive, and user-friendly web applications, and I have a strong background in Microsoft technologies.<br><br>Currently, I’m working on a Blazor POS system, which integrates various features like PDF receipt generation, advanced statistics, and seamless data handling. I’m also exploring ways to deploy applications on Azure for better scalability and performance.<br><br>When I'm not coding, I enjoy exploring new tech trends, sharing knowledge, and contributing to open-source projects. Feel free to check out my repositories and get in touch if you'd like to collaborate!<br><br>
 
 ## 🔧 My Repositories
-[![POS System](https://github.com/Abdellah1122/Restaurant-All-in-one-Website-Backoffice-application.git)](https://github.com/Abdellah1122/pos-system)
-[![Blazor Project](https://github.com/Abdellah1122/OMDH-Showcase-Website.git)](https://github.com/Abdellah1122/blazor-project)
+[![POS System](https://github-readme-stats.vercel.app/api/pin/?username=Abdellah1122&repo=Restaurant-All-in-one-Website-Backoffice-application)](https://github.com/Abdellah1122/Restaurant-All-in-one-Website-Backoffice-application)
+[![Blazor Project](https://github-readme-stats.vercel.app/api/pin/?username=Abdellah1122&repo=OMDH-Showcase-Website)](https://github.com/Abdellah1122/OMDH-Showcase-Website)
+
 
 
 
