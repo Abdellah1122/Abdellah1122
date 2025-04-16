@@ -2,46 +2,7 @@
 # 💫 About Me:
 Hi! I'm Abdellah Jorf a passionate .NET Blazor developer with over 4 years of experience working on various projects, ranging from Blazor WebAssembly to Blazor Server applications,not only that but everything related to backend web devloppement using .NET ASP Web API, Entity Framework ... , I specialize in building scalable, responsive, and user-friendly web applications, and I have a strong background in Microsoft technologies.<br><br>Currently, I’m working on a Blazor POS system, which integrates various features like PDF receipt generation, advanced statistics, and seamless data handling. I’m also exploring ways to deploy applications on Azure for better scalability and performance.<br><br>When I'm not coding, I enjoy exploring new tech trends, sharing knowledge, and contributing to open-source projects. Feel free to check out my repositories and get in touch if you'd like to collaborate!<br><br>
 
-## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Abdellah1122/Restaurant-All-in-one-Website-Backoffice-application" style="text-decoration: none;">
-    <div style="background-color: #f1f1f1; border-radius: 15px; width: 250px; margin: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); overflow: hidden; transition: transform 0.3s ease-in-out;">
-      <img src="https://via.placeholder.com/250x150/4A90E2/FFFFFF?text=Restaurant+Project" alt="Restaurant Project" style="width: 100%; border-bottom: 2px solid #ddd;">
-      <div style="padding: 15px; text-align: center;">
-        <h3 style="font-size: 18px; color: #333;">Restaurant Backoffice</h3>
-        <p style="font-size: 14px; color: #777;">All-in-one solution for restaurant management.</p>
-      </div>
-    </div>
-  </a>
-  
-  <a href="https://github.com/Abdellah1122/OMDH-Showcase-Website" style="text-decoration: none;">
-    <div style="background-color: #f1f1f1; border-radius: 15px; width: 250px; margin: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); overflow: hidden; transition: transform 0.3s ease-in-out;">
-      <img src="https://via.placeholder.com/250x150/4A90E2/FFFFFF?text=OMDH+Website" alt="OMDH Website" style="width: 100%; border-bottom: 2px solid #ddd;">
-      <div style="padding: 15px; text-align: center;">
-        <h3 style="font-size: 18px; color: #333;">OMDH Showcase</h3>
-        <p style="font-size: 14px; color: #777;">Website to showcase Moroccan human rights organization.</p>
-      </div>
-    </div>
-  </a>
-
-  <a href="https://github.com/Abdellah1122/POS-System" style="text-decoration: none;">
-    <div style="background-color: #f1f1f1; border-radius: 15px; width: 250px; margin: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); overflow: hidden; transition: transform 0.3s ease-in-out;">
-      <img src="https://via.placeholder.com/250x150/4A90E2/FFFFFF?text=POS+System" alt="POS System" style="width: 100%; border-bottom: 2px solid #ddd;">
-      <div style="padding: 15px; text-align: center;">
-        <h3 style="font-size: 18px; color: #333;">POS System</h3>
-        <p style="font-size: 14px; color: #777;">Complete point-of-sale system for businesses.</p>
-      </div>
-    </div>
-  </a>
-</p>
-
-<style>
-  div:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
-  }
-</style>
 
 ## 🔧 My Repositories
 
