@@ -1,6 +1,7 @@
 
 # 💫 About Me:
 Hi! I'm Abdellah Jorf a passionate .NET Blazor developer with over 4 years of experience working on various projects, ranging from Blazor WebAssembly to Blazor Server applications,not only that but everything related to backend web devloppement using .NET ASP Web API, Entity Framework ... , I specialize in building scalable, responsive, and user-friendly web applications, and I have a strong background in Microsoft technologies.<br><br>Currently, I’m working on a Blazor POS system, which integrates various features like PDF receipt generation, advanced statistics, and seamless data handling. I’m also exploring ways to deploy applications on Azure for better scalability and performance.<br><br>When I'm not coding, I enjoy exploring new tech trends, sharing knowledge, and contributing to open-source projects. Feel free to check out my repositories and get in touch if you'd like to collaborate!<br><br>
+
 ## 🚀 Featured Projects
 
 <p align="center">
@@ -42,6 +43,19 @@ Hi! I'm Abdellah Jorf a passionate .NET Blazor developer with over 4 years of ex
   }
 </style>
 
+## 🔧 My Repositories
+
+<p align="center">
+  <a href="https://github.com/Abdellah1122/Restaurant-All-in-one-Website-Backoffice-application">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdellah1122&repo=Restaurant-All-in-one-Website-Backoffice-application" alt="Restaurant Project" style="border-radius: 8px; margin: 10px;" />
+  </a>
+  <a href="https://github.com/Abdellah1122/OMDH-Showcase-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdellah1122&repo=OMDH-Showcase-Website" alt="OMDH Website" style="border-radius: 8px; margin: 10px;" />
+  </a>
+  <a href="https://github.com/Abdellah1122/POS-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdellah1122&repo=POS-System" alt="POS System" style="border-radius: 8px; margin: 10px;" />
+  </a>
+</p>
 
 
 
