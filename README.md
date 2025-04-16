@@ -5,7 +5,7 @@ Hi! I'm Abdellah Jorf a passionate .NET Blazor developer with over 4 years of ex
 ## 🔧 My Repositories
 [![Restaurant Project](https://github-readme-stats.vercel.app/api/pin/?username=Abdellah1122&repo=Restaurant-All-in-one-Website-Backoffice-application)](https://github.com/Abdellah1122/Restaurant-All-in-one-Website-Backoffice-application)
 [![OMDH Website](https://github-readme-stats.vercel.app/api/pin/?username=Abdellah1122&repo=OMDH-Showcase-Website)](https://github.com/Abdellah1122/OMDH-Showcase-Website)
-
+[![POS Systemm](https://github-readme-stats.vercel.app/api/pin/?username=Abdellah1122&repo=POS-System)](https://github.com/Abdellah1122/POS-System)
 
 
 
