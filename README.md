@@ -2,10 +2,19 @@
 # 💫 About Me:
 Hi! I'm Abdellah Jorf a passionate .NET Blazor developer with over 4 years of experience working on various projects, ranging from Blazor WebAssembly to Blazor Server applications,not only that but everything related to backend web devloppement using .NET ASP Web API, Entity Framework ... , I specialize in building scalable, responsive, and user-friendly web applications, and I have a strong background in Microsoft technologies.<br><br>Currently, I’m working on a Blazor POS system, which integrates various features like PDF receipt generation, advanced statistics, and seamless data handling. I’m also exploring ways to deploy applications on Azure for better scalability and performance.<br><br>When I'm not coding, I enjoy exploring new tech trends, sharing knowledge, and contributing to open-source projects. Feel free to check out my repositories and get in touch if you'd like to collaborate!<br><br>
 
-## 🔧 My Repositories
-[![Restaurant Project](https://github-readme-stats.vercel.app/api/pin/?username=Abdellah1122&repo=Restaurant-All-in-one-Website-Backoffice-application)](https://github.com/Abdellah1122/Restaurant-All-in-one-Website-Backoffice-application)
-[![OMDH Website](https://github-readme-stats.vercel.app/api/pin/?username=Abdellah1122&repo=OMDH-Showcase-Website)](https://github.com/Abdellah1122/OMDH-Showcase-Website)
-[![POS Systemm](https://github-readme-stats.vercel.app/api/pin/?username=Abdellah1122&repo=POS-System)](https://github.com/Abdellah1122/POS-System)
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Abdellah1122/Restaurant-All-in-one-Website-Backoffice-application">
+    <img src="https://img.shields.io/badge/Restaurant%20Project-%E2%9C%94%20Backoffice%20App-blue?style=flat&logo=github&logoColor=white" alt="Restaurant Project" />
+  </a>
+  <a href="https://github.com/Abdellah1122/OMDH-Showcase-Website">
+    <img src="https://img.shields.io/badge/OMDH%20Showcase-%E2%9C%94%20Human%20Rights%20Website-green?style=flat&logo=github&logoColor=white" alt="OMDH Website" />
+  </a>
+  <a href="https://github.com/Abdellah1122/POS-System">
+    <img src="https://img.shields.io/badge/POS%20System-%E2%9C%94%20Complete%20POS%20Solution-purple?style=flat&logo=github&logoColor=white" alt="POS System" />
+  </a>
+</p>
 
 
 
