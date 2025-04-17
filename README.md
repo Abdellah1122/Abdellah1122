@@ -14,7 +14,7 @@ Hi! I'm Abdellah Jorf a passionate .NET Blazor developer with over 4 years of ex
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdellah1122&repo=OMDH-Showcase-Website" alt="OMDH Website" style="border-radius: 8px; margin: 10px;" />
   </a>
   <a href="https://github.com/Abdellah1122/POS-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdellah1122&repo=POS-System" alt="POS System" style="border-radius: 8px; margin: 10px;" />
+    <img src="" alt="POS System" style="border-radius: 8px; margin: 10px;" />
   </a>
 </p>
 
